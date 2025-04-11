@@ -35,4 +35,4 @@ I'm an Electronics and Communication Engineering (ECE) student with a passion fo
 ## ⚡ Fun Fact
 
 Though I'm from an ECE background, I believe that combining hardware insights with strong software skills creates endless possibilities for innovation in tech.
-Thanks for visiting! Feel free to check out my repositories, connect on LinkedIn, or reach out for collaboration opportunities.
+
