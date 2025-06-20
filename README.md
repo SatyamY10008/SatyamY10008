@@ -20,7 +20,7 @@ I'm an Electronics and Communication Engineering (ECE) student with a passion fo
 ## 📈 Currently Learning
 
 - MERN Stack Development  
-- Data Structures & Algorithms in cpp  
+- Data Structures & Algorithms in c++  
 - Version Control and Collaboration Tools (Git/GitHub)  
 - Exploring IoT Integrations & Communication Protocols  
 
