@@ -1,76 +1,43 @@
-<h1 align="left">Hi 👋! My name is Satyam Yadav</h1>
+<h1 align="left">Hey I'm Satyam Yadav!! 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SatyamY10008&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<p align="left">Embedded Systems Engineer | IoT & Robotics Developer | Firmware & Microcontroller Expert</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am an Embedded Systems Engineer with 2+ years of hands-on experience in designing and programming real-time robotic systems. My expertise spans microcontroller programming (Arduino, ESP32, STM32), sensor integration, PCB design, and firmware development in Embedded C/C++. I have built IoT-enabled humanoid robots and educational robotics kits, leveraging communication protocols like UART, SPI, and I2C. Passionate about automation and real-time control, I thrive on solving complex problems in robotics and IoT through innovative hardware-software solutions. My work includes deploying systems with RTOS, ROS, and MATLAB modeling, aiming to bridge the gap between theory and practical applications in embedded technologies.<br><br><br>✨ Goals in Career ✨<br>🎯 Short-term: Enhance my proficiency in Real-Time Operating Systems (RTOS) and Robot Operating System (ROS) to develop more scalable and efficient robotic solutions. Contribute to open-source embedded projects and publish technical blogs to share knowledge.<br><br>🎯 Long-term: Lead a team in designing cutting-edge embedded systems for industrial automation or autonomous vehicles. Innovate in IoT-enabled robotics to create sustainable, smart technologies that address real-world challenges in agriculture, healthcare, or education.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxMzBzcjJ2a3pmc3U1c3JzNGJub3c3enF0Njg0ZnM1YWw0MmlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7u0xDii57oWIYuDQ7o/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="3" alt="javascript logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="3" alt="typescript logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="3" alt="html5 logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="3" alt="css3 logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="3" alt="python logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="3" alt="csharp logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="3" alt="amazonwebservices logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="3" alt="arduino logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="3" alt="kaggle logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="3" alt="linux logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="3" alt="matlab logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="3" alt="mysql logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="3" alt="nextjs logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="3" alt="nodejs logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="3" alt="notion logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="3" alt="opencv logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="3" alt="raspberrypi logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="3" alt="rust logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="3" alt="tensorflow logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="3" alt="vscode logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="3" alt="unity logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="http://www.gmail.com/satyadav@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/satyamyadav1213/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SatyamY10008/SatyamY10008/output/snake.svg" alt="Snake animation" />
+<p align="left">Featured Projects:-<br>1. Aqua Check: IoT water quality monitoring system with 20% reduced latency using SPI/UART.<br>2. Autonomous Agriculture Bot: OpenCV-driven robot improving crop yield by 25%.<br>3. Humanoid Robot: ROS-based gesture control with 15% faster response time.<br><br>Let’s Collaborate!<br>Open to partnerships on embedded systems, robotics, or IoT projects. Reach out via LinkedIn or email.<br><br>Fun Fact<br>Built robotic kits deployed in schools, boosting STEM engagement by 40%!</p>
 
 ###
