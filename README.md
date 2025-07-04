@@ -1,38 +1,76 @@
-# 👋 Hello, I'm Satyam Yadav
+<h1 align="left">Hi 👋! My name is Satyam Yadav</h1>
 
-I'm an Electronics and Communication Engineering (ECE) student with a passion for technology, innovation, and software development. While my academic background is rooted in hardware and communication systems, I've developed a strong interest in programming, full-stack development, and solving real-world problems through code.
+###
 
-## 💼 About Me
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SatyamY10008&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-- 🎓 Pursuing B.Tech in **Electronics and Communication Engineering (ECE)**  
-- 💡 Bridging the gap between hardware and software with hands-on experience in both domains  
-- 🌐 Passionate about web development, embedded systems, and the future of connected technologies  
-- 🤝 Looking to collaborate on interdisciplinary projects combining electronics and software  
+###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxMzBzcjJ2a3pmc3U1c3JzNGJub3c3enF0Njg0ZnM1YWw0MmlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7u0xDii57oWIYuDQ7o/giphy.gif"  />
 
-## 🛠️ Skills & Technologies
+###
 
-- **Programming Languages:** Java, C, Python    
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Arduino, MATLAB  
-- **Areas of Interest:** Full Stack Development, IoT, Signal Processing, Embedded Systems  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+</div>
 
+###
 
-## 📈 Currently Learning
+<div align="center">
+  <a href="http://www.gmail.com/satyadav@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/satyamyadav1213/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- MERN Stack Development  
-- Data Structures & Algorithms in c++  
-- Version Control and Collaboration Tools (Git/GitHub)  
-- Exploring IoT Integrations & Communication Protocols  
+###
 
+<br clear="both">
 
-## 📫 Connect with Me
+<img src="https://raw.githubusercontent.com/SatyamY10008/SatyamY10008/output/snake.svg" alt="Snake animation" />
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/satyam-yadav-b99247252/)  
-- 📧 *[satyamyadav0826@gmail.com]*  
-
----
-
-## ⚡ Fun Fact
-
-Though I'm from an ECE background, I believe that combining hardware insights with strong software skills creates endless possibilities for innovation in tech.
-
+###
