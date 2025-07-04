@@ -18,6 +18,19 @@
 
 ###
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="40" alt="storybook logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="40" alt="nestjs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" alt="jest logo"/>
+</div>
+
+###
+
 <h6 align="left">Languages: Embedded C, C++, Python<br><br>Microcontrollers: Arduino, ESP32, STM32<br><br>Communication Protocols: UART, SPI, I2C<br><br>Tools & Frameworks: MATLAB, ROS, KiCAD, LTSpice, Linux<br><br>Domains: Firmware Development, PCB Design, Sensor Integration, IoT, Robotics</h6>
 
 ###
@@ -25,3 +38,5 @@
 <p align="left">Featured Projects:-<br>1. Aqua Check: IoT water quality monitoring system with 20% reduced latency using SPI/UART.<br>2. Autonomous Agriculture Bot: OpenCV-driven robot improving crop yield by 25%.<br>3. Humanoid Robot: ROS-based gesture control with 15% faster response time.<br><br>Let’s Collaborate!<br>Open to partnerships on embedded systems, robotics, or IoT projects. Reach out via LinkedIn or email.<br><br>Fun Fact<br>Built robotic kits deployed in schools, boosting STEM engagement by 40%!</p>
 
 ###
+
+
