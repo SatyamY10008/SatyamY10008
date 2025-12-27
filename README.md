@@ -1,8 +1,8 @@
-<h1 align="left">Hey I'm Satyam Yadav!! 👋 What's up?</h1>
+<h1 align="left">Hey I'm Satyam Yadav 👋 What's up?</h1>
 
 ###
 
-<p align="left">Embedded Systems Engineer | IoT & Robotics Developer | Firmware & Microcontroller Expert</p>
+<p align="left">Aspiring Data Analyst | Python & SQL | Data Visualization Enthusiast</p>
 
 ###
 
@@ -10,33 +10,52 @@
 
 ###
 
-<p align="left">I am an Embedded Systems Engineer with 2+ years of hands-on experience in designing and programming real-time robotic systems. My expertise spans microcontroller programming (Arduino, ESP32, STM32), sensor integration, PCB design, and firmware development in Embedded C/C++. I have built IoT-enabled humanoid robots and educational robotics kits, leveraging communication protocols like UART, SPI, and I2C. Passionate about automation and real-time control, I thrive on solving complex problems in robotics and IoT through innovative hardware-software solutions. My work includes deploying systems with RTOS, ROS, and MATLAB modeling, aiming to bridge the gap between theory and practical applications in embedded technologies.<br><br><br>✨ Goals in Career ✨<br>🎯 Short-term: Enhance my proficiency in Real-Time Operating Systems (RTOS) and Robot Operating System (ROS) to develop more scalable and efficient robotic solutions. Contribute to open-source embedded projects and publish technical blogs to share knowledge.<br><br>🎯 Long-term: Lead a team in designing cutting-edge embedded systems for industrial automation or autonomous vehicles. Innovate in IoT-enabled robotics to create sustainable, smart technologies that address real-world challenges in agriculture, healthcare, or education.</p>
+<p align="left">
+I am a final-year B.Tech student in Electronics and Communication Engineering with a strong interest in data analytics and data-driven decision making. I have hands-on experience working with Python, SQL, and data visualization tools to analyze raw and semi-structured datasets, uncover meaningful patterns, and translate insights into actionable outcomes.<br><br>
+
+Through internships and academic projects, I have worked on data cleaning, exploratory data analysis, KPI tracking, dashboard development, and reporting to support both AI-driven product research and social-impact initiatives. I enjoy working with real-world data and building analytical solutions that create measurable impact.<br><br>
+
+✨ Career Goals ✨<br>
+🎯 Short-term: Start my career as a Data Analyst or Analytics Associate, strengthen my skills in advanced SQL, Power BI, and statistical analysis, and contribute to analytics-focused projects and open datasets.<br><br>
+
+🎯 Long-term: Grow into a Data Scientist or Analytics Consultant role, work on business, product, or impact-driven analytics at scale, and help organizations make smarter decisions through data.
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="40" alt="storybook logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="40" alt="nestjs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" alt="jest logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"/>
 </div>
 
 ###
 
-<h6 align="left">Languages: Embedded C, C++, Python<br><br>Microcontrollers: Arduino, ESP32, STM32<br><br>Communication Protocols: UART, SPI, I2C<br><br>Tools & Frameworks: MATLAB, ROS, KiCAD, LTSpice, Linux<br><br>Domains: Firmware Development, PCB Design, Sensor Integration, IoT, Robotics</h6>
+<h6 align="left">
+Programming & Analytics: Python, SQL, Pandas, NumPy, Exploratory Data Analysis<br><br>
+Visualization & Reporting: Power BI, Matplotlib, Seaborn, Advanced Excel<br><br>
+Databases & Systems: MySQL, Linux<br><br>
+Domains: Data Analysis, Business Analytics, Data Visualization, Reporting
+</h6>
 
 ###
 
-<p align="left">Featured Projects:-<br>1. Aqua Check: IoT water quality monitoring system with 20% reduced latency using SPI/UART.<br>2. Autonomous Agriculture Bot: OpenCV-driven robot improving crop yield by 25%.<br>3. Humanoid Robot: ROS-based gesture control with 15% faster response time.<br><br>Let’s Collaborate!<br>Open to partnerships on embedded systems, robotics, or IoT projects. Reach out via LinkedIn or email.<br><br>Fun Fact<br>Built robotic kits deployed in schools, boosting STEM engagement by 40%!</p>
+<p align="left">
+Featured Projects:-<br>
+1. RevLens: Revenue Intelligence and Performance Analyzer analyzing sales data to identify growth drivers, revenue leakage, and seasonality trends, with interactive Power BI dashboards.<br>
+2. ChurnSight: Customer Retention Analytics Framework identifying early churn signals using customer lifecycle and behavioral data with actionable insights.<br>
+3. SkillPulse India: Data Jobs Market Intelligence Study analyzing Indian job market trends to extract skill demand, tools, and role-wise expectations.<br><br>
+
+Let’s Collaborate!<br>
+Open to entry-level Data Analyst roles, internships, and analytics collaborations. Feel free to reach out via LinkedIn or email.<br><br>
+
+Fun Fact<br>
+I enjoy turning messy datasets into clear insights and dashboards that tell a story.
+</p>
 
 ###
-
-
