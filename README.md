@@ -77,6 +77,6 @@ My current work focuses on processing solar and weather datasets, preparing data
 I am interested in data engineering, analytics, forecasting, business intelligence, and reporting automation opportunities.
 
 - GitHub:  [SatyamY10008](https://github.com/SatyamY10008)
-- LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+- LinkedIn: ((https://www.linkedin.com/in/satyamyadav1213/))
 - Email: satyadav1213@gmail.com 
 
