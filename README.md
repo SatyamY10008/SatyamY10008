@@ -48,21 +48,6 @@ My background is in Electronics and Communication Engineering, which gives me a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-## Featured Projects
-
-### AquaCheck — Arduino-Based Water Quality Monitoring System
-
-An Arduino-based project focused on monitoring water quality using sensors and embedded hardware.
-
-**Technologies:** Arduino, Embedded Systems, Sensors, C/C++
-
-[View Project on GitHub](https://github.com/SatyamY10008/AquaCheck-Arduino-Based-Water-Quality-Monitoring-System)
-
-### Reporting Automation & Solar Data Analytics
-
-My current work focuses on processing solar and weather datasets, preparing data for forecasting, and developing automated reporting workflows. The work includes data transformation, validation, SQL-based data handling, and report generation.
-
-*Add a public repository link here if the project code and documentation are available to share.*
 
 ## Current Focus
 
